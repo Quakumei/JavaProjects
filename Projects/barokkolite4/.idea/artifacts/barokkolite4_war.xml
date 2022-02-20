@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="barokkolite4:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>barokkolite4</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="barokkolite4-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="barokkolite4:war exploded" />
+    </root>
+  </artifact>
+</component>
